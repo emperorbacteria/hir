@@ -1,0 +1,27 @@
+/* #about {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    background-color: blue;
+    color: red;
+    height: 100vh;
+}
+
+#product{
+    height: 100vh;
+
+}
+.product {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: brown;
+    margin: 5%;
+    flex-direction: column;
+    align-content: center;
+    padding: 15px;
+}
+
+.items {
+    padding: 10px;
+} */
+
